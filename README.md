@@ -3,7 +3,8 @@
 
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Umberto+Della+Monica;A+Computer+Science+graduate+student;Passionate+about+Cybersecurity+and+IoT;Determined+and+curious+learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Umberto+Della+Monica;A+Computer+Science+graduate+student;Passionate+about+Cybersecurity;and+IoT+Intenet+Of+Things;Determined+and+curious+learner&duration=3000)](https://git.io/typing-svg)
+
 
 
 
@@ -18,7 +19,7 @@
 
 Hi! 👋
 
-I'm a graduate student in Computer Science and i'm studying Cybersecurity at the University of Salerno. My passion lies in the realms of cybersecurity and IoT. I'm highly determined and endlessly curious, constantly seeking to enhance my skills and knowledge in the field of computer science.
+I'm a graduate student in Computer Science and i'm studying Cybersecurity at the University of Salerno. My passion lies in the realms of Cybersecurity and IoT. I'm highly determined and endlessly curious, constantly seeking to enhance my skills and knowledge in the field of computer science.
 
 
 
@@ -43,12 +44,20 @@ I'm a graduate student in Computer Science and i'm studying Cybersecurity at the
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-MicroPython-informational?style=flat&logo=MicroPython&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-JavaEE-informational?style=flat&logo=JavaEE&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=Redis&logoColor=white&color=539bf5)
+
+
+
+
 
 <details>
 <summary>More Skills</summary>
@@ -59,6 +68,14 @@ I'm a graduate student in Computer Science and i'm studying Cybersecurity at the
 ![](https://img.shields.io/badge/IoT-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/IoT-Exploit_SPI,I2C,UART-informational?style=flat&logo=Exploit_SPI,I2C,UART&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/IoT-PUF-informational?style=flat&logo=PUF&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-Ghidra-informational?style=flat&logo=Ghidra&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-Docker-informational?style=flat&logo=Docker&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-Hyperledger_FireFly-informational?style=flat&logo=Hyperledger&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-Hyperledger_besu-informational?style=flat&logo=Hyperledger&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-JTAG-informational?style=flat&logo=JTAG&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-AttifyBadge-informational?style=flat&logo=AttifyBadge&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-OpenOCD-informational?style=flat&logo=OpenOCD&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-toolChain_mipsel_linux_C-informational?style=flat&logo=Linux&logoColor=white&color=539bf5)
 
 <br>
 
@@ -90,6 +107,7 @@ I'm a graduate student in Computer Science and i'm studying Cybersecurity at the
 <br>
 
 <!-- Contact and Support -->
+## 📧 Contact 
 <div align="center">
     <p>Got ideas? Let's collaborate! 🚀 Reach out or fork this project on GitHub to join the journey! ✨</p>
 </div>
