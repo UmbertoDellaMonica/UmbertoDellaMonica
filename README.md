@@ -16,7 +16,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Intagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/umberto_della_monica/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/umberto-della-monica)
 
-Hey there 👋
+Hi! 👋
 
 I'm a graduate student in Computer Science and i'm studying Cybersecurity at the University of Salerno. My passion lies in the realms of cybersecurity and IoT. I'm highly determined and endlessly curious, constantly seeking to enhance my skills and knowledge in the field of computer science.
 
@@ -87,6 +87,12 @@ I'm a graduate student in Computer Science and i'm studying Cybersecurity at the
 ![](https://img.shields.io/badge/Tools-VmWare-informational?style=flat&logo=VmWare&logoColor=white&color=539bf5)
 
 </details>
-
 <br>
+
+<!-- Contact and Support -->
+<div align="center">
+    <p>Got ideas? Let's collaborate! 🚀 Reach out or fork this project on GitHub to join the journey! ✨</p>
+</div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=005C98&height=120&section=footer"/>
