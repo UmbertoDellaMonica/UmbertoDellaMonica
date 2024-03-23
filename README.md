@@ -1,15 +1,91 @@
-<h1 align="center">Hi 👋, I'm Umberto Della Monica</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umbertodellamonica&label=Profile%20views&color=0e75b6&style=flat" alt="umbertodellamonica" /> </p>
+<!-- Header with waving hand -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=005C98&height=100&section=header"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+👋;I'm+Umberto+Della+Monica;A+Computer+Science+graduate+student;Passionate+about+Cybersecurity+and+IoT;Determined+and+curious+learner)](https://git.io/typing-svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umbertodellamonica&show_icons=true&locale=en&layout=compact" alt="umbertodellamonica" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umbertodellamonica&show_icons=true&locale=en" alt="umbertodellamonica" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umbertodellamonica&" alt="umbertodellamonica" /></p>
+<!-- Break -->
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UmbertoDellaMonica&theme=merko)](https://github.com/UmbertoDellaMonica/github-readme-activity-graph)
+
+<!-- Social badges -->
+[![Instagram Badge](https://img.shields.io/badge/Intagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/umberto_della_monica/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/umberto-della-monica)
+
+Hey there 👋
+
+I'm a graduate student in Computer Science and i'm studying Cybersecurity at the University of Salerno. My passion lies in the realms of cybersecurity and IoT. I'm highly determined and endlessly curious, constantly seeking to enhance my skills and knowledge in the field of computer science.
+
+
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=umbertodellamonica&show_icons=true&locale=en&count_private=true&theme=react" alt="Umberto Della Monica stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umbertodellamonica&show_icons=true&locale=en&layout=compact&theme=react" alt="Umberto Della Monica stats" />
+</div>
+<br>
+<br>
+
+## 💼 Skills
+![](https://img.shields.io/badge/Code-Truffle-informational?style=flat&logo=Truffle&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Web3j-informational?style=flat&logo=web3j&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Web3js-informational?style=flat&logo=web3js&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-MicroPython-informational?style=flat&logo=MicroPython&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-JavaEE-informational?style=flat&logo=JavaEE&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=539bf5)
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![](https://img.shields.io/badge/IoT-Lightweight_cryptography-informational?style=flat&logo=Lightweight_cryptography&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-TEE-informational?style=flat&logo=TEE&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-Exploit_SPI,I2C,UART-informational?style=flat&logo=Exploit_SPI,I2C,UART&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/IoT-PUF-informational?style=flat&logo=PUF&logoColor=white&color=539bf5)
+
+<br>
+
+![](https://img.shields.io/badge/Cryptography-DES-informational?style=flat&logo=DES&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-AES-informational?style=flat&logo=AES&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-RSA-informational?style=flat&logo=RSA&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-MAC-informational?style=flat&logo=MAC&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-HMAC-informational?style=flat&logo=HMAC&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-Hashing-informational?style=flat&logo=Hashing&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Cryptography-Digital_Signatures-informational?style=flat&logo=Digital_Signatures&logoColor=white&color=539bf5)
+
+<br>
+
+![](https://img.shields.io/badge/Tools-Ganache-informational?style=flat&logo=ganache&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Hyperledger-informational?style=flat&logo=hyperledger&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=IntelliJ_IDEA&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-CLion-informational?style=flat&logo=CLion&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-VScode-informational?style=flat&logo=VScode&logoColor=white&color=539bf5)
+![](https://img.shields.io/badge/Tools-VmWare-informational?style=flat&logo=VmWare&logoColor=white&color=539bf5)
+
+</details>
+
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=005C98&height=120&section=footer"/>
