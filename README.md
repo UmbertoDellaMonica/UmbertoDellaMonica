@@ -28,6 +28,7 @@ I'm a graduate student in Computer Science and i'm studying Cybersecurity at the
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=umbertodellamonica&show_icons=true&locale=en&count_private=true&theme=react" alt="Umberto Della Monica stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umbertodellamonica&show_icons=true&locale=en&layout=compact&theme=react" alt="Umberto Della Monica stats" />
+			<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umbertodellamonica&" alt="umbertodellamonica" /></p>
 </div>
 <br>
 <br>
