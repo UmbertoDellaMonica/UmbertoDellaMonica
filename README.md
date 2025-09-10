@@ -37,76 +37,77 @@ I'm a graduate student in Computer Science and i'm studying Cybersecurity at the
 <br>
 
 ## 💼 Skills
-![](https://img.shields.io/badge/Code-Truffle-informational?style=flat&logo=Truffle&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Web3j-informational?style=flat&logo=web3j&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Web3js-informational?style=flat&logo=web3js&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-MicroPython-informational?style=flat&logo=MicroPython&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-JavaEE-informational?style=flat&logo=JavaEE&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=Redis&logoColor=white&color=539bf5)
+
+### 🖥️ Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/>
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+  <img src="./custom-icons/nextjs-logo.jpg" width="80" height="40" alt="Nextjs"/>
+  <img src="./custom-icons/React-logo.png" width="80" height="40" alt="React"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/neo4j.svg" width="40" height="40" alt="Neo4j"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+</p>
 
 
 
+### 🔌 Microcontrollers & Embedded Systems
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" width="40" height="40" alt="ESP32"/>
+  <img src="./custom-icons/st-microelectronics.svg" width="60" height="40" alt="STM32"/>
+</p>
+
+### 📡 IoT & Hardware Security
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux toolchain"/>
+  <img src="./custom-icons/openocd-logo.jpg" width="40" height="40" alt="OpenOCD"/>
+  <img src="./custom-icons/jtag-logo.png" width="40" height="40" alt="JTAG"/>
+  <img src="./custom-icons/UART.png" width="40" height="40" alt="UART"/>
+  <img src="./custom-icons/SPI-unofficial-logo.png" width="40" height="40" alt="SPI"/>
+  <img src="./custom-icons/attify-logo.png" width="60" height="40" alt="SPI"/>
+  <img src="./custom-icons/ghidra-logo.png" width="60" height="40" alt="Ghidra Reverse Engineering"/>
+  <img src="./custom-icons/radare2-logo.png" width="60" height="40" alt="radare2"/>
 
 
-<details>
-<summary>More Skills</summary>
-<br>
+  <!-- Custom SVG per: Ghidra, JTAG, OpenOCD, AttifyBadge, PUF, TEE, Lightweight Crypto -->
+</p>
 
-![](https://img.shields.io/badge/IoT-Lightweight_cryptography-informational?style=flat&logo=Lightweight_cryptography&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-TEE-informational?style=flat&logo=TEE&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-Exploit_SPI,I2C,UART-informational?style=flat&logo=Exploit_SPI,I2C,UART&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-PUF-informational?style=flat&logo=PUF&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-Ghidra-informational?style=flat&logo=Ghidra&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-Docker-informational?style=flat&logo=Docker&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-Hyperledger_FireFly-informational?style=flat&logo=Hyperledger&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-Hyperledger_besu-informational?style=flat&logo=Hyperledger&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-JTAG-informational?style=flat&logo=JTAG&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-AttifyBadge-informational?style=flat&logo=AttifyBadge&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-OpenOCD-informational?style=flat&logo=OpenOCD&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/IoT-toolChain_mipsel_linux_C-informational?style=flat&logo=Linux&logoColor=white&color=539bf5)
+### 🛠️ Development Tools
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="./custom-icons/ethereum.svg" width="80" height="40" alt="Ethereum"/>
+  <img src="./custom-icons/Hyperledger-Besu-logo.png" width="100" height="40" alt="Hyperledger Besu"/>
+  <img src="./custom-icons/Hyperledger-Firefly-logo.png" width="100" height="40" alt="VirtualBox "/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+  <img src="./custom-icons/vmware.svg" width="100" height="40" alt="VmWare"/>
+  <img src="./custom-icons/virtualbox.svg" width="100" height="40" alt="VirtualBox "/>
+</p>
 
-<br>
-
-![](https://img.shields.io/badge/Cryptography-DES-informational?style=flat&logo=DES&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-AES-informational?style=flat&logo=AES&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-RSA-informational?style=flat&logo=RSA&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-MAC-informational?style=flat&logo=MAC&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-HMAC-informational?style=flat&logo=HMAC&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-Hashing-informational?style=flat&logo=Hashing&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Cryptography-Digital_Signatures-informational?style=flat&logo=Digital_Signatures&logoColor=white&color=539bf5)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Ganache-informational?style=flat&logo=ganache&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Hyperledger-informational?style=flat&logo=hyperledger&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=IntelliJ_IDEA&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-CLion-informational?style=flat&logo=CLion&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-VScode-informational?style=flat&logo=VScode&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/Tools-VmWare-informational?style=flat&logo=VmWare&logoColor=white&color=539bf5)
-
-</details>
-<br>
 
 <!-- Contact and Support -->
 ## 📧 Contact 
