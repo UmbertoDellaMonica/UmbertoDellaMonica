@@ -25,9 +25,9 @@ My work focuses on the intersection of **hardware security**, **side-channel ana
 
 ## 📚 Selected Publications
 
-- **U. Della Monica**, K. Munjal, M. P. Tamas, B. Boi, C. Esposito, R. Khondoker. *"Threat Analysis and Risk Assessment (TARA) Analysis of an Autonomous Emergency Braking (AEB) System"*. **Applied Sciences**, MDPI, 2025. [[DOI](https://doi.org/10.3390/app15031400)]
+- **U. Della Monica**, C. Esposito. *"Automated VHDL Design with Large Language Models"*. **SAC '26 -- 41st ACM/SIGAPP Symposium on Applied Computing**, ACM Digital Library, 2026. [[DOI](https://doi.org/10.1145/3748522.3779735)]
 
-- Upcoming paper on Large Language Models applied to VHDL hardware design (ACM proceedings, *in press*).
+- **U. Della Monica**, K. Munjal, M. P. Tamas, B. Boi, C. Esposito, R. Khondoker. *"Threat Analysis and Risk Assessment (TARA) Analysis of an Autonomous Emergency Braking (AEB) System"*. **Applied Sciences**, MDPI, 2025. [[DOI](https://doi.org/10.3390/app15031400)]
 
 ## 💼 Current Work
 
